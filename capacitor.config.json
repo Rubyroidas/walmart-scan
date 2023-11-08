@@ -1,0 +1,11 @@
+{
+  "appId": "com.dklyuev.walmartscan",
+  "appName": "walmart-scan",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
